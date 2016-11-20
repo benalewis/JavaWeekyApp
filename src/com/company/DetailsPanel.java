@@ -56,5 +56,7 @@ public class DetailsPanel extends JPanel {
         gc.gridx = 1;
         gc.gridy = 2;
         add(addBtn, gc);
+
+        //
     }
 }
